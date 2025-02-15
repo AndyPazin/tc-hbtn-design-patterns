@@ -1,1 +1,4 @@
-pazin
+O que é Arquitetura Hexagonal e por quem ela foi criada?
+Quais são os benefícios e recursos que Arquitetura Hexagonal fornece?
+Quais as diferenças entre Arquitetura Hexagonal e Clean Architecture?
+Na sua opinião, a Arquitetura Hexagonal pode ser utilizada em qualquer tipo de projeto ? Quais informações devem ser consideradas antes de desenvolver sistemas usando esse padrão de projeto?
